@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
+- 🏫 I am a Student at Faculty of Computers & Informatics at Minia University.
+- 💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode, Codechef, Google Contests.
+- ✍🏻 I love using Software as a solution for every Problem
+- 🤓 Always learning new things
 - 💬 Ask me about **MERN, DS, Algorithms, C++ and Software Engineering in general**
-
 - 📫 How to reach me **ahmd.ramadaan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10lxtCY2Ga3G72m57EKhA_CA2_sbueNMc/view?usp=sharing](https://drive.google.com/file/d/10lxtCY2Ga3G72m57EKhA_CA2_sbueNMc/view?usp=sharing)
+- 📄 Know about from my [CV](https://drive.google.com/file/d/10lxtCY2Ga3G72m57EKhA_CA2_sbueNMc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
