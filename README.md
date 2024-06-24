@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmd-ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmd-ramadan" height="30" width="40" /></a>
-<a href="https://fb.com/ahmdramadan74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmdramadan0" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmdramadan74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedramadn74" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/ahmdramdan74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmdramadan0" height="30" width="40" /></a> -->
+<a href="https://instagram.com/ahmdramdaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedramadn74" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ahmedramadn74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahmedramadn74" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmedramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedramadan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmd-ramadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmd-ramadan" height="30" width="40" /></a>
